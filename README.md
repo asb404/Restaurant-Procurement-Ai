@@ -4,17 +4,17 @@
 
 Restaurant sourcing is often manual, slow, and fragmented across spreadsheets, email threads, and vendor follow-ups. Teams must identify ingredients, compare supplier pricing, send RFQs/RFPs, collect quotes, and decide on suppliers under time pressure.
 
-### Sample menu URL:
-https://static1.squarespace.com/static/5c7b6f7e2727be77abdf5890/t/6914ef2b0907c65d1e3faa39/1762979627485/20251112+PX+Tri-Fold+Menu+INSIDE-compressed.pdf
-
-### Demo URL:
-https://drive.google.com/file/d/1KT9R7fzdg1d0f8UdTkrcw3jIn7Ty5tNU/view?usp=sharing
-
 **Restaurant Procurement AI** automates this workflow end-to-end:
 
 **Menu → Ingredients → Pricing → Distributors → RFP → Quotes → Recommendation**
 
 The system is designed to improve procurement speed, pricing visibility, and consistency in supplier selection through structured data and intelligent pipeline orchestration.
+
+#### Sample menu URL:
+https://static1.squarespace.com/static/5c7b6f7e2727be77abdf5890/t/6914ef2b0907c65d1e3faa39/1762979627485/20251112+PX+Tri-Fold+Menu+INSIDE-compressed.pdf
+
+#### Demo URL:
+https://drive.google.com/file/d/1KT9R7fzdg1d0f8UdTkrcw3jIn7Ty5tNU/view?usp=sharing
 
 ## System Architecture
 
