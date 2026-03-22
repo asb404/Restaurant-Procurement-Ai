@@ -26,9 +26,10 @@ The platform is composed of the following core layers:
   - Persists normalized procurement entities
   - Stores ingredient pricing history for trend analysis over time
 
-- **AI-assisted agents**
-  - Menu/dish/ingredient extraction support
-  - Email content generation and quote parsing support
+- **AI-assisted agents (Local LLM via Ollama)**
+  - Menu/dish/ingredient extraction using local LLM inference
+  - Email (RFP) generation tailored to distributor context
+  - Supplier quote parsing from unstructured responses
 
 - **Services Layer**
   - Pricing service (including trend-aware price retrieval)
@@ -143,6 +144,8 @@ docs/
 - SQLAlchemy
 - SQLite
 - Streamlit
+- Ollama (Local LLM runtime)
+- Llama3 (or compatible local model)
 
 ## Key Highlights
 
